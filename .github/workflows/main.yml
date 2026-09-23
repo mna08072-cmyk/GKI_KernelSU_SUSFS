@@ -188,9 +188,9 @@ jobs:
           }
 
           # Audited pins (from root-variants.yml). Used only when commit_mode=verified.
-          PIN_NOMOUNT="d6cb7158b5a98a8168fa7bae191e23cbcfd38974"
-          PIN_KERNELSU="bd82a853b55d2660fead11009165dfdde8fcbf64"
-          PIN_RESUKISU="e974089cbb7d9ef7c096335e2ffd328d23ba36d1"
+          PIN_NOMOUNT="fea33dd0e759101a231784fd48a3476abcab9e5d"
+          PIN_KERNELSU="449436dd56e4abb075f7b53fb5b2b33ff3830dd2"
+          PIN_RESUKISU="6803643e19e2e6e8287f96461aabb93bdd6c47fa"
           PIN_SUKISU_ULTRA="b20dee702035af09cb2ecb5f35443bbc1747f3e6"
           declare -A PIN_SUSFS=(
             [susfs_commit_android12_5_10]="f3b5aecf53ff8b3296603071b91383f6be6c7cbb"
